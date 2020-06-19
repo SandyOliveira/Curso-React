@@ -10,3 +10,6 @@ Instalar yarn -> instala pacotes de forma mais facil
 Dependencias do projeto fica no node_modules
 No public fica os arquivos que serão acessiveis pelo usuario
 No src fica os codigos da aplicação 
+
+Bliblioteca para fazer a navegação
+>> yarn add react-router-dom 
