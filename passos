@@ -13,3 +13,6 @@ No src fica os codigos da aplicação
 
 Bliblioteca para fazer a navegação
 >> yarn add react-router-dom 
+
+rodar/abrir um arquivo json
+json-server data.json -p 3001

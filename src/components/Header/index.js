@@ -1,7 +1,7 @@
 import React from 'react';
 import "./styles.css";
 const Header = () => (
-    <header id="main-header">JSHunter</header>
+    <header id="main-header">Sandy Dev</header>
 );
 
 export default Header;
